@@ -45,7 +45,7 @@ li {
 .container li {
     list-style: none;
     display: inline;
-    margin: 3vh;
+    margin: 1vh;
     margin-top: 3vh;
 }
 
